@@ -40,9 +40,9 @@ Gitは「テキスト（プログラム）」を保存する場所です。
 
 ### 📁ファイル名
 (1)_(2)_(3).(拡張子）
-1.　実験内容（例：SLM_calibration, SLM_control, TIE_FFT)
-2. 担当者名
-3. 年度（卒論・修論執筆時）
+1.　実験内容（例：SLM_calibration, SLM_control, TIE_FFT)  
+2. 担当者名  
+3. 年度（卒論・修論執筆時）  
 
 ---
 
